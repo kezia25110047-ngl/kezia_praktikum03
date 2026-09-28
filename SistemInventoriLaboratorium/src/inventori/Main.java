@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Barang barang = new Barang(
-                "BRG-001",
+                "BRG-002",
                 "Mouse USB",
                 "Periferal",
                 10,
